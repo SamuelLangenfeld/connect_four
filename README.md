@@ -1,6 +1,4 @@
-This exercise is from the Odin Project:
-
-http://www.theodinproject.com/courses/ruby-programming/lessons/testing-ruby?ref=lc-pb
+This exercise is from the [Odin Project](http://www.theodinproject.com/courses/ruby-programming/lessons/testing-ruby?ref=lc-pb)
 
 I created a game of connect four that is played from the command line. The game is played on a 7x6 grid. Player's place a piece in one of the columns and the piece drops to the bottom. Whoever gets four in a row first wins. The game can also end in a draw.
 
